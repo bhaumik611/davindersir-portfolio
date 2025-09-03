@@ -27,9 +27,7 @@ export function About() {
       <div className="rounded-xl p-6 border border-border/60 bg-background/70 backdrop-blur supports-[backdrop-filter]:bg-background/60 shadow-sm transition-colors">
         <h2 className="text-2xl font-semibold text-foreground">About Me</h2>
         <p className="mt-4 text-pretty text-muted-foreground leading-relaxed">
-          I am an accomplished researcher and educator in Computer Science and Engineering, with expertise in Artificial Intelligence, Machine Learning, Deep Learning, and Cloud Computing. My work focuses on drug discovery, computational biology, and medical imaging, where I integrate intelligent computational approaches to solve real-world healthcare challenges.
-
-As an enthusiastic, student-centered educator, I bring a proven track record of fostering student success, curriculum innovation, and program growth. I have extensive experience in research mentorship, course coordination, and academic advising, ensuring both high ethical standards and impactful outcomes in teaching and research.
+          Dr. Davinder Paul Singh is currently working as an Assistant Professor in the Department of Computer Science and Engineering at Pandit Deendayal Energy University, Gandhinagar, Gujarat. He has completed his Ph.D. from Shri Mata Vaishno Devi University, Katra, Jammu and Kashmir. He has also qualified UGC- NET JRF in computer science with All India Rank 100. He has published various articles in SCI journals and International Conferences of repute. Dr. Davinder Paul Singh has also won several best paper presentation awards including "Best Paper Award" for his CSI article. His primary areas of interest include Artificial Intelligence, Machine Learning, Deep Learning, Computational Biology and Drug Discovery.
         </p>
       </div>
 

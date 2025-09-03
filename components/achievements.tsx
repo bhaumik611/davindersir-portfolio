@@ -1,7 +1,7 @@
 import { Award, GraduationCap, PenLine } from "lucide-react"
 
 const items = [
-  { title: "Best Paper Awards", icon: Award, detail: "Recognized at multiple international conferences." },
+  { title: "Best Paper Awards", icon: Award, detail: "Presented research papers in various conferences." },
   { title: "UGC CSIR-NET AIR 100", icon: GraduationCap, detail: "Top 100 All India Rank in Computer Science." },
   { title: "Editorial Board Member", icon: PenLine, detail: "Serving as editor in 'Medicon' and 'PriMera Scientific Engineering (PSEN)'." },
 ]
