@@ -16,6 +16,7 @@ const nav = [
   { href: "#contact", label: "Contact" },
 ]
 
+
 export function SiteHeader() {
   const [scrolled, setScrolled] = useState(false)
   useEffect(() => {
@@ -49,7 +50,7 @@ export function SiteHeader() {
         <div className="flex items-center gap-2">
           <ThemeToggle />
           <Button asChild size="sm" className="focus-ring">
-            <a href="/Users/bhaumikpatel/Downloads/academic-portfolio/public/Updated Resume_Dr. Davinder Paul Singh_CSE.docx" download>
+            <a href="/resume.docx" download>
               Download Resume
             </a>
           </Button>

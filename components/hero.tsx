@@ -15,7 +15,7 @@ export function Hero() {
 
         <div className="mt-6 flex flex-wrap items-center gap-3">
           <Button asChild className="focus-ring">
-            <a href="/Users/bhaumikpatel/Downloads/academic-portfolio/public/Updated Resume_Dr. Davinder Paul Singh_CSE.docx" download>
+            <a href="/resume.docx" download>
               Download Resume
             </a>
           </Button>

@@ -22,6 +22,9 @@ export const metadata: Metadata = {
   title: "Dr. Davinder Paul Singh — AI Researcher, Educator, Innovator",
   description:
     "Academic portfolio of Dr. Davinder Paul Singh: AI, Deep Learning, Medical Imaging, Drug Discovery. Publications, patents, teaching, and contact.",
+    icons: {
+      icon: '/fevicon.png'
+    },
   keywords: [
     "AI",
     "Deep Learning",
