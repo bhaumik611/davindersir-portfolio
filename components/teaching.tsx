@@ -1,6 +1,6 @@
 export function Teaching() {
   return (
-    // <div className="grid gap-6 md:grid-cols-2">
+     <div className="grid gap-6 md:grid-cols-2">
       {/* <div className="rounded-xl p-6 bg-card/80 supports-[backdrop-filter]:bg-card/60 backdrop-blur-sm border border-border shadow-sm">
         <h2 className="text-2xl font-semibold">About Me</h2>
         <p className="mt-3 text-muted-foreground leading-relaxed">
@@ -17,6 +17,6 @@ export function Teaching() {
           <li>Supervised theses on deep learning for drug response prediction</li>
         </ul>
       </div> */}
-    // </div>
+     </div>
   )
 }
