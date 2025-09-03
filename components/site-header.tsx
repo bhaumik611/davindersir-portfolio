@@ -12,7 +12,7 @@ const nav = [
   { href: "#publications", label: "Publications" },
   { href: "#patents", label: "Patents" },
   { href: "#achievements", label: "Achievements" },
-  { href: "#teaching", label: "Teaching" },
+  // { href: "#teaching", label: "Teaching" },
   { href: "#contact", label: "Contact" },
 ]
 
